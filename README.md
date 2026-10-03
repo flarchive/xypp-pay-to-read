@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of xypp/pay-to-read.** Not for installation: use [Packagist](https://packagist.org/packages/xypp/pay-to-read) or the [upstream repository](https://github.com/zxy19/flarum-pay-to-read).
 
-**0** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/xypp-pay-to-read/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**13** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/xypp-pay-to-read/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-08-31 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-pay-to-read/tree/archive/v1.0.0) |
+| `v1.1.0` | 2023-09-08 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-pay-to-read/tree/archive/v1.1.0) |
+| `v1.1.1` | 2023-09-08 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-pay-to-read/tree/archive/v1.1.1) |
+| `v1.2.0` | 2023-10-29 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-pay-to-read/tree/archive/v1.2.0) |
+| `v1.2.1` | 2024-07-13 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-pay-to-read/tree/archive/v1.2.1) |
+| `v1.3.0` | 2024-07-11 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-pay-to-read/tree/archive/v1.3.0) |
+| `v1.3.1` | 2024-07-12 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-pay-to-read/tree/archive/v1.3.1) |
+| `v1.3.2` | 2024-07-13 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-pay-to-read/tree/archive/v1.3.2) |
+| `v1.3.3` | 2024-07-14 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-pay-to-read/tree/archive/v1.3.3) |
+| `v1.3.4` | 2024-07-14 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-pay-to-read/tree/archive/v1.3.4) |
+
+[View all 13 versions](https://github.com/flarchive/xypp-pay-to-read/tags)
 
 Catalog entry: [packages/xypp-pay-to-read.json](https://github.com/flarchive/archive-index/blob/main/packages/xypp-pay-to-read.json)
 
